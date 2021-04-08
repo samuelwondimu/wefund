@@ -1,0 +1,119 @@
+h1,
+p {
+  color: #333;
+}
+.profile {
+  padding: 50px;
+}
+.profile h1 {
+  color: teal;
+  font-size: 2rem;
+}
+.profile p {
+  font-size: 1.2rem;
+  color: rgb(70, 70, 70);
+}
+
+.investor div {
+  padding: 50px;
+  line-height: 2rem;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin: 10px;
+}
+.investor div h1,
+.investor div p {
+  text-align: left;
+}
+.investor div h1 {
+  color: teal;
+}
+
+.navbar {
+  background-color: teal;
+}
+.navbar a {
+  color: #ffffff;
+  font-size: 1.3rem;
+  font-weight: 900;
+}
+.col-sm {
+  padding: 0px 0px;
+}
+.home-image div img {
+  width: 630px;
+  padding-top: 30px;
+}
+
+/* image text */
+.iconDetails {
+  margin-left: 2%;
+  float: left;
+  width: 500px;
+}
+.section-overview {
+  margin-top: 50px;
+  padding: 50px;
+  width: 100%;
+  color: #ffffff;
+  background-color: teal;
+}
+.container2,
+.container3 {
+  margin: auto;
+  width: 50%;
+}
+.container__image {
+  display: inline-block;
+  vertical-align: top;
+  width: 45%;
+  margin: 20px 30px 0 0;
+}
+.container__text {
+  text-align: left;
+  margin: 40px;
+  padding-top: 50px;
+  display: inline-block;
+  @media (max-width: 620px) {
+    width: 100%;
+  }
+}
+.container__text p {
+  font-size: 1.1rem;
+  color: #ffffff;
+  line-height: 2.5rem;
+}
+.container3 .container__text {
+  float: left;
+}
+
+.overview {
+  text-align: center;
+}
+
+.ourstory {
+  padding: 100px;
+  text-align: center;
+  line-height: 3rem;
+}
+.ourstory h1 {
+  padding-top: 50px;
+  color: teal;
+}
+.ourstory p {
+  font-size: 1.3rem;
+  line-height: 2rem;
+}
+
+.footer {
+  padding: 50px;
+  background-color: teal;
+  color: #ffffff;
+}
+.footer a {
+  color: #ffffff;
+}
+.footer div h4 {
+  color: #ffffff;
+}
