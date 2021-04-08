@@ -4,6 +4,7 @@ p {
 }
 .profile {
   padding: 50px;
+  text-align: center;
 }
 .profile h1 {
   color: teal;
