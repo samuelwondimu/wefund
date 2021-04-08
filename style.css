@@ -2,8 +2,13 @@ h1,
 p {
   color: #333;
 }
+
+.landing {
+  background-color: teal;
+  color: #ffffff;
+}
 .profile {
-  padding: 50px;
+  padding: 100px;
   text-align: center;
 }
 .profile h1 {
